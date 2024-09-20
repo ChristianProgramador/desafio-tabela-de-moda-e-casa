@@ -1,0 +1,19 @@
+th, td{
+    border: .5px solid #fff;
+    
+}
+
+.informacao-moda {
+    background-color: #BB86FC;
+    color: #fff;
+}
+
+.produtos {
+    background-color:  #424250;
+    color: #fff;
+}
+
+.informacao-casa {
+    background-color:  #00C4B4;
+    color: #fff;
+}
